@@ -1,0 +1,2 @@
+# langChain_Tongyi_demo
+一个基于langChain+通义千问+mysql的自然语言交互回答demo
