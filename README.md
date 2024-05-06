@@ -4,3 +4,4 @@
 其中langChainTest.py是最简单的一个使用demo，langChain4api.py则是使用了fastapi的版本，便于前后端开发项目的使用。
 
 有问题欢迎提问🙋
+
